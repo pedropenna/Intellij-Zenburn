@@ -1,7 +1,7 @@
 Intellij-Zenburn
 ================
 
-ZenBurn color scheme for the Intellij 13 based on Emacs Zenburn colors
+ZenBurn color scheme for the Intellij 13 based on the Zenburn for Emacs theme's colors (https://github.com/bbatsov/zenburn-emacs)
 
 ...
 
